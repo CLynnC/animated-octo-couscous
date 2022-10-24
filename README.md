@@ -59,7 +59,8 @@ This is the Repository for the Module 1 Challenge for the Full Stack Coding Boot
 //  There were a few last minute tweaks as well to the overall layout of the page also. Like the header had to have the padding removed completely from it. Except on the left side. And the padding had to be removed from the header-navigation section list, in order for it to still allow the links to work and look uniform. Otherwise the sticky header would overlap the page's content when you click the links at the top. And so the entire heading had to shrink. Which resulted in adding a new position attribute to the main-homepage-image element. Added: [background-position-y:50px;] to it. //
 
 # Project's Finished Screenshot:
-    ![Screenshot](Module-1-Challenge-Screenshot.jpg)
+    https://github.com/CLynnC/animated-octo-couscous/blob/b05c02c3295741f4b2ea6d3494d617080287da16/Module-1-Challenge-Screenshot.jpg
+    
 
 # Project's Finished Deployment URL
 
