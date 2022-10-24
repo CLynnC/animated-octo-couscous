@@ -10,7 +10,7 @@ This is the Repository for the Module 1 Challenge for the Full Stack Coding Boot
     SO THAT our own site is optimized for search engines. //
 
 # Improvements/Revisions Made
-    First off I added a bit more meta to the existing code (html) in order to optimize it for general search engines to find it easier.
+  //  First off I added a bit more meta to the existing code (html) in order to optimize it for general search engines to find it easier. //
 
 //  Next I capitalized [SEO] in the name to make it look more pronouced from the Hori since it is clearly trying to be different and stick out from the entire website title. SEO being some of the services that the HoriSEOn offers. So that people can easily tell that this site is built for SEO purposes. //
 
@@ -60,3 +60,7 @@ This is the Repository for the Module 1 Challenge for the Full Stack Coding Boot
 
 # Project's Finished Screenshot:
     ![Screenshot](Module-1-Challenge-Screenshot.jpg)
+
+# Project's Finished Deployment URL
+
+
