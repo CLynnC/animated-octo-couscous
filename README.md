@@ -66,5 +66,5 @@ This is the Repository for the Module 1 Challenge for the Full Stack Coding Boot
 ![image](https://user-images.githubusercontent.com/116032409/197429439-580b238e-3225-4a1d-9ff4-bbb80a94d413.png)
 
 # Project's Finished Deployment URL
-
-
+    https://clynnc.github.io/animated-octo-couscous/#search-engine-optimization
+    
